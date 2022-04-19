@@ -9,5 +9,3 @@ dependencies:
   - py3Dmol
   - rdkit
   - psi4
-  - pip:
-    -stmol
