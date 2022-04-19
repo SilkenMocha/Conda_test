@@ -1,5 +1,13 @@
 name: streamlit-conda-minimal
 channels:
   - conda-forge
+  - psi4
 dependencies:
   - streamlit >= 0.73
+  - numpy=1.13.3
+  - Pillow
+  - py3Dmol
+  - rdkit
+  - psi4
+  - pip:
+    -stmol
