@@ -3,8 +3,8 @@ channels:
   - conda-forge
   - psi4
 dependencies:
-  - streamlit >= 0.73
-  - numpy==1.13.3
+  - streamlit>= 1.0
+  - numpy=1.13.3
   - Pillow
   - py3Dmol
   - rdkit
