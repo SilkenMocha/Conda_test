@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - psi4
   - defaults
-  - iwatobipen
+
 dependencies:
   - streamlit>= 0.7
   - numpy=1.13.3
@@ -11,4 +11,4 @@ dependencies:
   - py3Dmol
   - rdkit
   - psi4
-  - psikit
+
