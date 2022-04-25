@@ -12,5 +12,5 @@ dependencies:
   - rdkit
   - psi4
   - pip:
-     - "--editable=git+https://github.com/Mishima-syk/psikit
+     - psikit
 
