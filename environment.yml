@@ -11,4 +11,6 @@ dependencies:
   - py3Dmol
   - rdkit
   - psi4
+  - pip:
+     - "--editable=git+https://github.com/Mishima-syk/psikit
 
