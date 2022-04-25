@@ -5,7 +5,6 @@ channels:
   - defaults
 dependencies:
   - streamlit>= 0.7
-  - python=3.7
   - numpy=1.13.3
   - Pillow
   - py3Dmol
