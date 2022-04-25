@@ -10,6 +10,7 @@ dependencies:
   - Pillow
   - py3Dmol
   - rdkit
+  - pip
   - psi4
   - pip:
      - psikit
